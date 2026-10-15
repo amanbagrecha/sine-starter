@@ -1,0 +1,17 @@
+{
+  "slug": "sine-starter",
+  "version": "1.0.1",
+  "release_id": "7b4ac09cbec4b6700a8aed337e788e497a7df893",
+  "commit": "3f56be5cbb442468b36455e675632249bb59c83e",
+  "api": "https://udf.ai/fc_1g1McHwVfq5S6gNL43FxBp",
+  "installed_at": "2026-10-15T10:52:22Z",
+  "source": "udf-api",
+  "files": {
+    "index.html": "99ffc4ce7f9cc7eaa1709e4e88b333b8013a91a1e43d1c32435ed917574c7525",
+    "metadata.json": "a6a8cd3c693a837d52a6b65853c38668551482aaa9803f96627357229c8bc406",
+    "preview.png": "eb944b761f36793845280aa8dce477d8b54a2d208273f1171baee6d41c102f4b",
+    "pyproject.toml": "c0346a639730cf6b040408a2a76e8558d6cfa3959f3614e2cb1ec93a71a9845c",
+    "readme.md": "964a60e7d158b44a3cde9cb028519fc2b343580d67cc2820c7d2b3f96b1a5598",
+    "sine.py": "654b0f033197b57d7abce0c45bf264c379e7ecc576deadce6f51f76609b9d404"
+  }
+}
