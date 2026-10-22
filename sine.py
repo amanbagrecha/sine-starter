@@ -1,4 +1,4 @@
-"""Example runPython target: computes a sine wave. Stdlib only"""
+"""Example runPython target: computes a cosine wave. Stdlib only"""
 import math
 
 
@@ -7,6 +7,6 @@ def main(n: int = 80, freq: float = 1.0) -> dict:
     points = []
     for i in range(n):
         x = i / (n - 1) if n > 1 else 0.0
-        y = math.sin(10 * math.pi * freq * x)
+        y = math.cos(10 * math.pi * freq * x)
         points.append([x, y])
     return {"points": points}
